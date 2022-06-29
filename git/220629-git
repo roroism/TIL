@@ -1,0 +1,40 @@
+# TODAY I LEARNED 20220629
+
+## git/github수업(최우영강사님)
+
+- shell
+	- pwd
+	- ls
+	- ls -a
+	- ls -l
+	- ls -al
+	- cd {디텍토리명}
+	- mkdir
+	- touch {새폴더이름}
+	- mv {옮길파일/디렉토리} {옮길위치}
+	- cp {복사할파일} {새파일이름}
+	- mv {이름바꿀파일} {바꿀이름}
+	- rm {삭제할파일이름}
+	- rm -rf
+- vim커맨드
+	- esc / i
+	- :
+	- q
+	- wq
+	- o
+- git 커맨드
+	- git clone {repo url}
+	- git add {filename}
+	- git commit
+	- git push origin main
+	- git status
+	- git config --list
+- git Conventional Commits
+	- prefix
+		- feat
+		- fix
+		- docs
+		- test
+		- conf
+		- build
+		- ci
